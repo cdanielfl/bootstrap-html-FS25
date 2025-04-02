@@ -3,4 +3,10 @@
   height: 500px;
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 80px;
 }/*# sourceMappingURL=style.css.map */
